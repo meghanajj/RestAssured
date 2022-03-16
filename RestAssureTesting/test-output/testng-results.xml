@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12052" started-at="2022-03-16T07:29:03Z" finished-at="2022-03-16T07:29:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12052" started-at="2022-03-16T07:29:03Z" finished-at="2022-03-16T07:29:15Z">
+      <class name="RestAssureTest.Ecommerce">
+        <test-method status="PASS" signature="signup()[pri:0, instance:RestAssureTest.Ecommerce@6ee12bac]" name="signup" duration-ms="8063" started-at="2022-03-16T12:59:03Z" finished-at="2022-03-16T12:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="logIn()[pri:1, instance:RestAssureTest.Ecommerce@6ee12bac]" name="logIn" duration-ms="3963" started-at="2022-03-16T12:59:11Z" finished-at="2022-03-16T12:59:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+      </class> <!-- RestAssureTest.Ecommerce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

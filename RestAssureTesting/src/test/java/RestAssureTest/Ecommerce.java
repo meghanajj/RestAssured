@@ -52,7 +52,7 @@ public class Ecommerce {
 		 RestAssured.baseURI = baseurl;
 		 
 		 String requestbody = "{\r\n"
-			 		+ "	\"email\": \"mohankrishna176@gmail.com\",\r\n"
+			 		+ "	\"email\": \"moh6@gmail.com\",\r\n"
 			 		+ "	\"password\": \"krishna@123\"\r\n"
 			 		+ "}\r\n";
 		 	
